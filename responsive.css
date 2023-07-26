@@ -1,4 +1,13 @@
 @media (max-width: 600px) {
+  /* mv */
+  .logo h2 {
+    font-size: 1.6rem;
+  }
+
+  .logo h4 {
+    font-size: 1.2rem;
+  }
+  
   /* sideNav */
   .menu-letter1 {
     font-size: 1.6rem;
@@ -60,7 +69,7 @@
 
   .contact-container {
     flex-direction: column;
-    width: 90%;
+    width: 100%;
   }
 
   .map {
