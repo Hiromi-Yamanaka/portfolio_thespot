@@ -1,0 +1,90 @@
+@media (max-width: 600px) {
+  /* sideNav */
+  .menu-letter1 {
+    font-size: 1.6rem;
+    line-height: 1.2rem;
+    margin-bottom: 0.2px;
+  }
+
+  .menu-letter2 {
+    font-size: 0.6rem;
+    margin-top: 0;
+  }
+
+  /* about */
+
+  .about {
+    width: 200px;
+  }
+  .about-wrapper-bottom {
+    padding-bottom: 180px;
+  }
+  .about-container {
+    flex-direction: column;
+  }
+
+  .about-container img {
+    width: 60%;
+  }
+
+  .about-container p {
+    margin-top: 20px;
+  }
+
+  .coffee img {
+    width: 20%;
+    top: 300px;
+    right: -40px;
+  }
+
+  /* menu */
+
+  .menu {
+    width: 200px;
+    left: -5px;
+  }
+
+  .aboutmenu-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .aboutmenu {
+    width: 58vw;
+    margin-bottom: 50px;
+  }
+
+  .swiper-wrapper {
+    margin-top: 20px;
+  }
+
+  .contact-container {
+    flex-direction: column;
+    width: 90%;
+  }
+
+  .map {
+    width: 90%;
+    height: 100px;
+  }
+
+  .shop-photo img {
+    display: none;
+  }
+
+  .contact {
+    width: 200px;
+  }
+
+  .footer-wrapper {
+    height: 70px;
+  }
+
+  .footer-wrapper p {
+    font-size: 10px;
+  }
+
+  .milk img {
+    width: 30px;
+  }
+}
