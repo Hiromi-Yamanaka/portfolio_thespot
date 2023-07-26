@@ -96,11 +96,13 @@ a:hover {
 
 .menu-letter1 {
   font-size: 1.7rem;
-  line-height: 1.5rem;
+  line-height: 1.3rem;
+  margin-bottom: 0;
 }
 
 .menu-letter2 {
   font-size: 0.7rem;
+  margin-top: 0;
 }
 
 .instagram {
